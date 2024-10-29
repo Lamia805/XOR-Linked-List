@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\user\downloads\xor\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1730225578 source:c:\users\user\downloads\xor\xor_linked.c
+	<stdio.h>
+	<stdlib.h>
+	<inttypes.h>
+	<windows.h>
+	<time.h>
+
