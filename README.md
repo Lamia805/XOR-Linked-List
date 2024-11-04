@@ -1,1 +1,3 @@
-# XOR-Linked-List
+Software: Code Blocks
+
+Language Used: C
